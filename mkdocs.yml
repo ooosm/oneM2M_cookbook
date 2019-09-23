@@ -3,4 +3,5 @@ nav:
 - home: 'cookbook.md'
 - wdc:
   - intro: 'wdc_intro.md'
+  - supported features: 'wdc_intro.md'
 theme: readthedocs
