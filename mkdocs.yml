@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+- home: 'cookbook.md'
+- wdc:
+  - intro: 'wdc_intro.md'
+theme: readthedocs
