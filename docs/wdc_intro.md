@@ -1,23 +1,12 @@
-hi there, let me introduce WDC
+## What is WDC?
 
-## Commands
+WDC is the codename for the candidate OSS from [OCEAN](http://develeopers.iotocean.org).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Source codes
 
-### see my code
+_link here when it gets publically available_
 
-there are `number` of items
-```js
-    let obj = 'sth';
-    //say yes
-```
+### WDC deployment environment
 
-### table test
-
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+- Node.js
+- Mongodb
