@@ -1,7 +1,17 @@
 site_name: My Docs
 nav:
 - home: 'index.md'
-- wdc:
+- oneM2M APIs: 'oneM2M_apis.md'
+- oneM2M recepies: 
+  - AE registration: 'ae_registration.md'
+  - data sharing: 'data_sharing.md'
+  - data management: 'data_mgmt.md'
+  - resource discovery: 'discovery.md'
+  - fetching multiple resources: 'rcn8.md'
+  - group fan-out: 'grp_fanout.md'
+  - subscription/notifiaction: 'sub_noti.md'
+- WDC:
   - intro: 'wdc_intro.md'
   - features: 'supported_features.md'
+  - WDC recepies: 'wdc_recepies.md'
 theme: readthedocs

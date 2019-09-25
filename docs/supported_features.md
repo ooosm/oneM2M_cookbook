@@ -33,7 +33,9 @@
     - supported options: attributes, child-resources
 - `Filter Criteria`
 
-## extended features that would be included in oneM2M Rel-4 soon
 
+## extended features 
+
+These would be included in oneM2M Rel-4 soon
 - geo-query
 - getting multiple content instances on `latest` and `oldest` virtual resources
