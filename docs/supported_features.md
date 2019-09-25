@@ -2,32 +2,36 @@
 
 ## standardized features in oneM2M
 
-Bindings
+### Bindings
+
 - HTTP and MQTT
 
-Serialization
+### Serialization
+
 - JSON 
 
-Resource types
-- CSEBase
-- remoteCSE
-- AE
-- container
-    - latest
-    - oldest 
-- contentInstance
-- group
-    - fanOutPoint
-- subscription
-    - notification 
-- flexContainer
+### Resource types
 
-Parameters
-- Response Type
+- `CSEBase`
+- `remoteCSE`
+- `AE`
+- `container`
+    - `latest`
+    - `oldest` 
+- `contentInstance`
+- `group`
+    - `fanOutPoint`
+- `subscription`
+    - notification 
+- `flexContainer`
+
+### Parameters
+
+- `Response Type`
     - supported options: blocking 
-- Result Content
+- `Result Content`
     - supported options: attributes, child-resources
-- Filter Criteria
+- `Filter Criteria`
 
 ## extended features that would be included in oneM2M Rel-4 soon
 

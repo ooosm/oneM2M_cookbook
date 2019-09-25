@@ -1,6 +1,6 @@
 site_name: My Docs
 nav:
-- home: 'cookbook.md'
+- home: 'index.md'
 - wdc:
   - intro: 'wdc_intro.md'
   - features: 'supported_features.md'
